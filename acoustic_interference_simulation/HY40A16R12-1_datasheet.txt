@@ -1,0 +1,106 @@
+           华宇电子有限公司超声波传感器
+                             Huayu Electronic Co.,Ltd
+
+型号（Type）：          HY   40   A   16     R     12 - 1
+                   1    2    3    4     5      6        7
+1 华宇电子公司                     Huayu Electronic Co.,Ltd
+2 标称频率                       Center Frequency
+
+3 外壳材质                       Housing Material
+
+4 外壳直径                       Shell diameter
+
+5 功能                         Function
+
+6 产品高度                       Product height
+
+7 结构                         structure
+
+电气规格(ELECTRICAL SPECIFICATION)
+
+1. 功能（Function）：                        Transmit or receive (单用途)
+
+2. 结构（structure）：                       Open Structure （开放式）
+
+3. 外壳材质（Housing Material）：              Aluminum （铝）
+
+4. 中心频率(Center Frequency):              40±0.5KHz
+
+5. 静态电容(Free Capacitance):              2200±20%Pf
+
+6. 声压(Sound Pressure Level)：            116dB min.(0dB=0.02mPa)
+
+7. 发射角度（-6 dB Directivity deg）：                     70±5°
+
+8. 灵敏度(Sensitivity):                    -62dB Min.(0dB=1v/μ bar)
+
+9. 余震:(Ringing):                            1.5ms max
+
+10. 使用温度(Operating Temperature):              -25℃～+60℃
+
+11. 最大允许电压（Maximum allowable voltage）：140Vp-p
+
+12. 储存温度(Storage Temperature):                -40℃～+80℃
+
+13. 重量（Weight）：                              2.3g
+                                        1
+外观及尺寸（Appearance and size）
+
+
+
+
+性能参数（raphics for performance parameters）
+
+
+
+
+测试电路（Test circuit）
+
+
+
+
+                              2
+可靠性试验（ RELIABLILTY TEST ）
+ 1 High temp test
+   After being placed in a chamber at 120℃ for 24 hours
+ 2 Low temp test
+   After being placed in a chamber at -30℃ for 96 hours
+ 3 Humidity Test
+   After being placed in a chamber +50℃ and 90±5% relative Humidity for 96 hours
+ 4 Vibration
+   Sensor shall be measured after being applied vibration of Amplitude of 1.5mm with 10 to 55hz band
+ of vibration frequency to each of 3 per-pendicuiar directions for 2 hours
+ 5 Drop test
+  The part only shall be dropped from a height of 100cm onto a 10mm thick wooden board 3 times
+ in 3 axes(X.Y.Z).(a total of 9 times).
+ 6 Treminal Mechanical strength
+  The force 10 seconds of 9.8N(1.0Kg)is applied to each terminal in axial direction
+  No damage and cutting off
+7 After the test the part shall meet specifications with-out any Degradation in appearance and
+performance except SPL after 4 hours at 25℃. The SPL should be in±10dB compared wit initial one.
+1 高温试验
+  120 度放置 24 小时
+2 低温试验
+  30 度放置 96 小时
+3 湿度测试
+  50 度 90±5%，96 小时。
+4 振动
+  10-55hz 1min 1.5mm 3 轴（x.y.z） 2hours/direction
+5 跌落试验
+  100CM 高下跌到 10mm 厚的木板上 3 次一个循环（共做 9 次）。
+6 接线的机械强度
+  用力 10 秒 9.8n（1.0kg）施加到终端，在轴向方无损坏切断。
+7 试验结束后，在 25℃4 小时后，传感器的外观和性能均应符合规定。声压级应在±10db 相比
+  初始。
+
+包装规范（ Package Specification）
+1 每只泡沫盒 50 只产品。         Each foam box has 50 products
+2 每箱 50 只泡沫盒。           40 foam boxes in each case
+3 每箱 2500 只产品。          2000 products per carton
+4 包装箱尺寸 520X420X280（mm） Packing case size 520X420X280 mm
+
+
+
+
+                                                 3
+
